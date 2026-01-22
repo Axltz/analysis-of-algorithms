@@ -1,0 +1,16 @@
+# Notas y apuntes
+notes/
+projects/
+
+# Archivos temporales
+*.exe
+*.out
+*.o
+
+# Configuración local
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
